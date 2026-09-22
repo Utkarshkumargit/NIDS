@@ -1,0 +1,5 @@
+pip install pyshark
+pip install streamlit
+pip install tensorflow torch
+pip install pandas numpy scikit-learn matplotlib seaborn
+pip install scapy streamlit joblib
